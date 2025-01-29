@@ -4,7 +4,7 @@ using SimpleGame.Infrastracture.Services;
 using UnityEngine;
 using Zenject;
 
-namespace Assets.Scripts.Installers
+namespace SimpleGame.Installers
 {
     public class RootInstaller : MonoInstaller
     {

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 
-namespace Assets.Scripts.UI
+namespace SimpleGame.UI
 {
     [RequireComponent(typeof(Slider))]
     public class HealthBar : MonoBehaviour
